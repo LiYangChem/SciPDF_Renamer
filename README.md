@@ -10,7 +10,7 @@ Auto rename new scientific literature PDF files based on its DOIs(auto search DO
 		
 # 安装：
 
-1.安装Python 3.6.8版本
+1.安装[Python 3.6.8](https://www.python.org/ftp/python/3.6.8/python-3.6.8-amd64.exe)版本
 
 2.运行“安装SciPDF_Renamer.bat”安装所需依赖
 
