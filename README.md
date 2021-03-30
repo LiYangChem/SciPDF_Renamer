@@ -18,3 +18,5 @@ Auto rename new scientific literature PDF files based on its DOIs(auto search DO
 1.运行Run_watchdog.bat文件将会对该文件夹进行自动监控，并重命名新文件
 
 2.如需对已存在的文件进行处理，请运行“Rename_All_pdf_in_folder.bat”
+
+![image](https://github.com/LiYangChem/SciPDF_Renamer/blob/main/screenshot/1_SciPDF_Renamer.png)
